@@ -1,16 +1,22 @@
-## Hi there 👋
+# Shimizu — Data Science in progress
 
-<!--
-**shimizumarcel/shimizumarcel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Analyst on the path to Data Scientist.** Python • SQL • Power BI/Tableau • NLP  
+Law → Data (IMC/USP). Focus: turning data into simple decisions.
 
-Here are some ideas to get you started:
+## 🔧 Stack
+- Python (Pandas, scikit-learn) • SQL (joins, window functions)  
+- BI: Power BI / Tableau • ETL/EDA  
+- Git/GitHub • AWS (S3, SageMaker — beginner)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Projects
+- **Legal NLP (MBA thesis)** — zero-shot & semi-supervised approaches for court decision classification.  
+  *Best model:* Zero-shot Text Entailment (≈81% acc).  
+  Repo: https://github.com/shimizumarcel/zero-shot-and-semi-supervised-models-for-legal-judgement-classification
+
+## ✍️ About me
+I enjoy tackling complex problems, building clear explanations, and creating visualizations that tell a story.  
+Special interest in **NLP** and applied ML.
+
+
+## 📬 Contact
+LinkedIn: https://www.linkedin.com/in/marcel-akira-shimizu/ • Email: m.akira.shimizu@gmail.com
